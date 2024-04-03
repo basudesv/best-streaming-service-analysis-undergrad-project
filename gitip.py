@@ -1,0 +1,1 @@
+px.scatter(tv_shows_both_ratings, x='IMDb', y='Rotten Tomatoes',color='StreamingOn')
